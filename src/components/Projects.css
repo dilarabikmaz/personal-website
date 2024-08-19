@@ -1,0 +1,64 @@
+.projects-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  background-color: #d9e3da; /* Background color matching your theme */
+}
+
+.project-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-image {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.project-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.project-content h3 {
+  margin: 0 0 10px;
+  font-size: 1.5em;
+  color: #333;
+}
+
+.project-content p {
+  flex-grow: 1;
+  color: #666;
+  font-size: 1em;
+}
+
+.project-content a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background: #4caf50; /* Button color matching your theme */
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.project-content a:hover {
+  background: #45a049; /* Hover color for the button */
+}
+
+.projects-section h2 {
+  font-size: 2em;
+  margin-bottom: 1em;
+  margin: 1em 0 0.5em 2em;
+  color: black; /* Change the heading color to dark green */
+}

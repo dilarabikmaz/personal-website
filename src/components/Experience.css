@@ -1,0 +1,55 @@
+.section {
+  padding: 4em 2em;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+}
+
+.experience-container {
+  display: flex;
+  justify-content: space-around; /* Distributes space evenly around each item */
+  flex-wrap: wrap; /* Ensures items wrap to the next line if they don't fit */
+  gap: 20px; /* Adjust the space between items */
+  background-color: #d9e3da; /* Adjust background color as needed */
+  padding: 20px; /* Adds padding to the container */
+}
+
+.experience-item {
+  background: white; /* Sets background of each item */
+  padding: 20px; /* Adds padding inside each item */
+  border-radius: 8px; /* Adds rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  flex: 1; /* Each item takes up equal space */
+  min-width: 200px; /* Ensures items don't get too narrow */
+  max-width: 300px; /* Optional: Limits the width of each item */
+  text-align: center; /* Center-align text */
+}
+
+.experience-item h3 {
+  font-size: 1.2em; /* Adjust as needed */
+  margin-bottom: 10px;
+}
+
+.experience-item h4 {
+  font-size: 1em; /* Adjust as needed */
+  font-weight: normal; /* Optional: Adjust font weight */
+  color: #2f4c39; /* Adjust color as needed */
+  margin-bottom: 10px;
+}
+
+.experience-item p {
+  font-size: 0.9em; /* Adjust as needed */
+  color: #666; /* Adjust color as needed */
+}
+
+.experience-section h2 {
+  font-size: 2em;
+  margin-bottom: 1em;
+  margin: 1em 0 0.5em 2em;
+  color: black; /* Change the heading color to dark green */
+}
+
+.company-logo {
+  max-width: 80px; /* Adjust this value as needed */
+  max-height: 40px; /* Adjust this value as needed */
+  margin-bottom: 10px;
+}
