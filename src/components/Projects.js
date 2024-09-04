@@ -4,21 +4,21 @@ import './Projects.css';
 const projects = [
   {
     title: 'SpotiFind',
-    description: 'A customized playlist curator for Spotify users developed using Flask, HTML/CSS, and JavaScript',
+    description: 'A customized playlist curator for Spotify users developed using Flask, HTML/CSS, and JavaScript.',
     link: 'https://github.com/dilarabikmaz/spotify_playlist_curator',
     image: 'spoti.jpg'
   },
   {
     title: 'The Yalie Wellness Journal',
-    description: 'A digital wellness journal for Yale students developed with React',
+    description: 'A digital wellness journal for Yale students developed with React.',
     link: 'https://github.com/dilarabikmaz/wellness_journal',
     image: 'yalie-journal.png'
   },
   {
-    title: 'beije. App',
-    description: 'A soon to be released mentrual tracking app that I helped develop during my internship at beije.',
-    link: 'https://beije.co/en',
-    image: 'beije-web.png'
+    title: 'Treasurer\'s Budget Tracker',
+    description: 'A budget tracker Flask app that helps clubs\' treasurers manage large sums of money with automated calculations.',
+    link: 'https://github.com/dilarabikmaz/budget_tracker',
+    image: 'budget.png'
   },
   {
     title: 'Personal Website',
