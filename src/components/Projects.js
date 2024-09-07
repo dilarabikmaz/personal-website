@@ -22,7 +22,7 @@ const projects = [
   },
   {
     title: 'beije. App',
-    description: 'Internship project: A menstrual tracking app set to launch soon',
+    description: 'Internship project: A menstrual tracking app I product managed that is set to launch soon',
     link: '#',
     image: 'beije-web.png'
   },
