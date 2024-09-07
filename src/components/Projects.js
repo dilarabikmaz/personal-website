@@ -21,10 +21,10 @@ const projects = [
     image: 'budget.png'
   },
   {
-    title: 'Personal Website',
-    description: 'My portfolio/website developed using React :)',
+    title: 'beije. App',
+    description: 'Internship project: A menstrual tracking app set to launch soon',
     link: '#',
-    image: 'pers-web.png'
+    image: 'beije-web.png'
   },
 ];
 
