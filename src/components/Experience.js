@@ -28,7 +28,7 @@ const Experience = () => {
                 <p>January 2024 - Present</p>
             </div>
             <div className="experience-item">
-                <h3>Teaching Assistant</h3>
+                <h3>Teaching Assistant and Research Assistant</h3>
                 <a href="https://economics.yale.edu/" target="_blank" rel="noopener noreferrer">
                   <img src="yale-econ.png" alt="Yale Econ Logo" class="company-logo"></img>
                 </a>
