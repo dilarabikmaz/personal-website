@@ -32,7 +32,7 @@ const Experience = () => {
                 <a href="https://economics.yale.edu/" target="_blank" rel="noopener noreferrer">
                   <img src="yale-econ.png" alt="Yale Econ Logo" class="company-logo"></img>
                 </a>
-                <p>September 2023 - December 2023</p>
+                <p>September 2023 - Present</p>
             </div>
         </div>
     </section>
