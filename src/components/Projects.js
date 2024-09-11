@@ -10,7 +10,7 @@ const projects = [
   },
   {
     title: 'The Yalie Wellness Journal',
-    description: 'A digital wellness journal for Yale students developed with React.',
+    description: 'A digital wellness journal for Yale students developed with Flask, HTML/CSS, and JavaScript.',
     link: 'https://github.com/dilarabikmaz/wellness_journal',
     image: 'yalie-journal.png'
   },
