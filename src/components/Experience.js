@@ -15,7 +15,7 @@ const Experience = () => {
             </div>
             <div className="experience-item">
                 <h3>Project Intern</h3>
-                <a href="https://www.beko.com/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.beko.com/us-en" target="_blank" rel="noopener noreferrer">
                   <img src="beko-logo.png" alt="Beko Logo" class="company-logo"></img>
                 </a>
                 <p>July 2023 - August 2023</p>
