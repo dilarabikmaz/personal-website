@@ -4,7 +4,7 @@ import './Projects.css';
 const projects = [
   {
     title: 'SpotiFind',
-    description: 'A customized playlist curator for Spotify users developed using Flask, HTML/CSS, and JavaScript.',
+    description: 'A customized, keyword-based playlist curator for Spotify users developed using Flask, HTML/CSS, and JavaScript.',
     link: 'https://github.com/dilarabikmaz/spotify_playlist_curator',
     image: 'spoti.jpg'
   },
@@ -22,8 +22,8 @@ const projects = [
   },
   {
     title: 'beije. App',
-    description: 'Internship project: A menstrual tracking app I product managed that is set to launch in the upcoming year.',
-    link: '#',
+    description: 'A menstrual tracking and female health community app for which I served as a product manager intern. Set to launch in 2025.',
+    link: 'https://beije.co/en',
     image: 'beije-web.png'
   },
 ];

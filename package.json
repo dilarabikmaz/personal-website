@@ -38,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://dilarabikmaz.com"
+  "homepage": "https://dilarabikmaz.com",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
