@@ -9,20 +9,20 @@ const projects = [
     image: 'spoti.jpg'
   },
   {
+    title: 'Whisk: Smart Cooking',
+    description: 'A smart cooking app developed with Swift that optimizes recipe step display by minimizing wait times. Developed as the final project for Yale\'s Software Engineering course.',
+    link: 'whiskapp-demo.mp4',
+    image: 'whisklogo.png'
+  },
+  {
     title: 'The Yalie Wellness Journal',
     description: 'A digital wellness journal for Yale students developed with Flask, HTML/CSS, and JavaScript.',
     link: 'https://github.com/dilarabikmaz/wellness_journal',
     image: 'yalie-journal.png'
   },
   {
-    title: 'Treasurer\'s Budget Tracker',
-    description: 'A budget tracker Flask app that helps clubs\' treasurers manage large sums of money with automated calculations.',
-    link: 'https://github.com/dilarabikmaz/budget_tracker',
-    image: 'budget.png'
-  },
-  {
     title: 'beije. App',
-    description: 'Internship project: A menstrual tracking app I product managed that is set to launch soon.',
+    description: 'Internship project: A menstrual tracking app I product managed that is set to launch in the upcoming year.',
     link: '#',
     image: 'beije-web.png'
   },

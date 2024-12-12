@@ -3,14 +3,14 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #f4f4f4;
+  background-color: #fafafa;
 }
 
 .section {
   padding: 4em 2em;
   margin: 1em;
-  background-color: #f4f4f4;
-  border: 1px solid #ddd;
+  background-color: #fafafa;
+  border: 1px solid #fafafa;
 }
 
 h2 {

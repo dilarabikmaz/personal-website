@@ -3,7 +3,7 @@
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
   padding: 20px;
-  background-color: #d9e3da; /* Background color matching your theme */
+  background-color: #f4f4f4; 
 }
 
 .project-card {
@@ -45,7 +45,7 @@
   display: inline-block;
   margin-top: 10px;
   padding: 10px 15px;
-  background: #4caf50; /* Button color matching your theme */
+  background: #4caf50;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -53,12 +53,12 @@
 }
 
 .project-content a:hover {
-  background: #45a049; /* Hover color for the button */
+  background: #45a049;
 }
 
 .projects-section h2 {
   font-size: 2em;
   margin-bottom: 1em;
   margin: 1em 0 0.5em 2em;
-  color: black; /* Change the heading color to dark green */
+  color: black; 
 }
