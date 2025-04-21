@@ -7,18 +7,22 @@ const Experience = () => {
       <h2>Experience</h2>
       <div className="experience-container">
             <div className="experience-item">
+                <h3>Incoming SDE Intern</h3>
+                <a href="https://www.aboutamazon.com/about-us" target="_blank" rel="noopener noreferrer">
+                  <img
+                      src="amazon-logo-1.png"
+                      alt="Amazon"
+                      style={{ width: "100px", height: "auto", marginTop: "12px" }}
+                  />
+                </a>
+                <p>May 2025 - August 2025</p>
+            </div>
+            <div className="experience-item">
                 <h3>Product Management Intern</h3>
                 <a href="https://beije.co/en" target="_blank" rel="noopener noreferrer">
                   <img src="beije-logo.png" alt="Beije Logo" class="company-logo"></img>
                 </a>
                 <p>June 2024 - August 2024</p>
-            </div>
-            <div className="experience-item">
-                <h3>Project Intern</h3>
-                <a href="https://www.beko.com/us-en" target="_blank" rel="noopener noreferrer">
-                  <img src="beko-logo.png" alt="Beko Logo" class="company-logo"></img>
-                </a>
-                <p>July 2023 - August 2023</p>
             </div>
             <div className="experience-item">
                 <h3>Board Member & Treasurer</h3>
