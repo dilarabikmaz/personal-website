@@ -7,7 +7,7 @@ const Experience = () => {
       <h2>Experience</h2>
       <div className="experience-container">
             <div className="experience-item">
-                <h3>Incoming SDE Intern</h3>
+                <h3>SDE Intern</h3>
                 <a href="https://www.aboutamazon.com/about-us" target="_blank" rel="noopener noreferrer">
                   <img
                       src="amazon-logo-1.png"
